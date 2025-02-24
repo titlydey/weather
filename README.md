@@ -22,7 +22,7 @@ This project is a weather forecasting web application that provides real-time we
 ## How to Use
 1. Clone the repository to your local machine.
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/titlydey/weather.git>
 
 
 
